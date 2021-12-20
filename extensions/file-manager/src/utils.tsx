@@ -1,3 +1,4 @@
+// xxxx
 import { ActionPanel, CopyToClipboardAction, List, ShowInFinderAction, OpenWithAction, OpenAction, showToast, ToastStyle, getPreferenceValues, PushAction, Icon, Detail, ActionPanelItem } from "@raycast/api";
 import { promisify } from "node:util";
 import { exec as _exec } from "node:child_process";
